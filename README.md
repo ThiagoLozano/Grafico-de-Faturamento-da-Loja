@@ -40,7 +40,6 @@ valores = [120000,
 
 ```
 import matplotlib.pyplot as plt
-
 ```
 ![Biblioteca](https://github.com/ThiagoLozano/Grafico-de-Faturamento-da-Loja/blob/master/Screenshot/Biblioteca.PNG)
 
