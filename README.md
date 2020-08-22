@@ -11,26 +11,18 @@ e quais faturamentos foram obtidos no final do ano de 2019 (Valores Hipotéticos
 
 # Exemplo de Uso
 
-### Valores do gráfico :
+### Classe:
 ```
-# Variável Linha x:
-meses = ['Loja A',
-         'Loja B',
-         'Loja C',
-         'Loja D',
-         'Loja E',
-         'Loja F']
-
-# Variável linha y:
-valores = [120000,
-           150000,
-           145500,
-           120500,
-           134400,
-           119880]
-
+class Grafico:
+    def __init__(self):
+        # Linha X
+        self.lojas = ['Loja A', 'Loja B', 'Loja C',
+                      'Loja D', 'Loja E', 'Loja F']
+        # Linha y
+        self.valores = [120000, 150000, 145500,
+                        120500, 134400, 119880]
 ```
-![Valores do Gráfico](https://github.com/ThiagoLozano/Grafico-de-Faturamento-da-Loja/blob/master/Screenshot/Valores.PNG)
+![Valores do Gráfico](https://github.com/ThiagoLozano/Grafico-de-Faturamento-da-Loja/blob/master/Screenshot/Classe.PNG)
 
 ![Gráfico](https://github.com/ThiagoLozano/Grafico-de-Faturamento-da-Loja/blob/master/Screenshot/gr%C3%A1fico.PNG)
 
