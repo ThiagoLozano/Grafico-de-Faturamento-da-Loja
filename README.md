@@ -2,9 +2,15 @@
 
 > Um sistema simples que gera um gráfico.
 
-  O projeto tem como objetivo, gerar um gráfico com base nos dados já pré estabelecidos entre as lojas citadas
-e quais faturamentos foram obtidos no final do ano de 2019 (Valores Hipotéticos)
+  O programa deve gerar um gráfico de faturamento de cada loja registrada:
+- Loja A R$120000;
+- Loja B R$150000;
+- Loja C R$145500 ;
+- Loja D R$120500;
+- Loja E R$134400;
+- Loja F R$119880;
 
+Mostrar em Gráfico de barra o nome das lojas e o valor de sua fatura.
 # Tecnologias Utilizadas
 * **_PyCharm;_**
 * **_Python 3_**
